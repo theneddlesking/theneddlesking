@@ -7,4 +7,4 @@ When I'm not coding I'm either making or playing games. My biggest hobby ever si
 Wanting to get better at testing and CI/CD
 
 😄 Pronouns: he/him
-⚡ Fun fact: I'm loud :-)
+
